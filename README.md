@@ -15,7 +15,7 @@ Change the placeholder Octocat gif on your GitHub Pages website by [creating you
 
 Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
 
-![octocat](./images/create-octocat.png)
+![octocat]([./images/create-octocat.png](https://img2.baidu.com/it/u=3470499029,2365340557&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500))
 
 ## Everything you need to know about GitHub
 
